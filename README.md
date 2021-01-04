@@ -2,7 +2,8 @@
 Getting Started project to Learn Django Framework following this advanced django course: https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/
 
 ## Built with:
-Python, Django.
+Python
+Django
 
 
 ## Instructions
