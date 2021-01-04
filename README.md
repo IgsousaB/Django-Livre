@@ -1,10 +1,11 @@
-# djangolivre
-Getting Started Project to Learn Django Framework
+# Django(livre)
+Getting Started project to Learn Django Framework following this advanced django course: https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/
 
-Built with:
+## Built with:
 Python, Django.
 
-Instructions
+
+## Instructions
 Open your terminal.
 Insert git clone https://github.com/IgsousaB/djangolivre.git
 Insert cd djangolivre
