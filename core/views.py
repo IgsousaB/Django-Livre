@@ -1,10 +1,14 @@
 from django.shortcuts import render
 
+from .models import Product
+
 # Create your views here.
 def index(request):
+    products = Product.objects.all()
+
     context = {
         'curso': 'Programação web com Django Framework',
-        'outro': 'Django é massa!'
+        'outro': ''
     }
     return render(request, 'index.html', context)
 
